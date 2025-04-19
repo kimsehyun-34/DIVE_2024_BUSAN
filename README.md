@@ -4,7 +4,7 @@ The 1st DIVE 2024 in Busan - 부산 데이터 분석 해커톤
   <img style="float:left" src="https://img.shields.io/badge/Samsung SDS Brightics AI-1428A0?style=flat-square&amp;logo=&amp;logoColor=white" width="auto" height="40" />
   <img style="float:left" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" width="auto" height="40" />
   <img style="float:left" src="https://img.shields.io/badge/GeoPy-139C5A?style=flat-square&amp;logo=&amp;logoColor=white" width="auto" height="40" />
-  <img style="float:left" src="https://img.shields.io/badge/Excel-217346?style=flat-square&amp;logo=microsoft excel&amp;logoColor=white" width="auto" height="40" />
+  <img style="float:left" src="https://img.shields.io/badge/Excel-217346?style=flat-square&amp;logo=l&amp;logoColor=white" width="auto" height="40" />
 </div>
 
 ---------------------------
